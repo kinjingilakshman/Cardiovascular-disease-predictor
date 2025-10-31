@@ -14,7 +14,7 @@ public class HeartDiseaseFromCSV {
 
     public static void main(String[] args) throws Exception {
         // --- Load CSV data ---
-        String filePath = "C:/Users/Aathish/Desktop/cardio_train.csv"; // CSV path
+        String filePath = "C:/Users/Aa/Desktop/cardio_train.csv"; // CSV path
 
         ArrayList<Attribute> attrs = new ArrayList<>();
         attrs.add(new Attribute("age"));
